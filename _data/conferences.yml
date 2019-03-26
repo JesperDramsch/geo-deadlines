@@ -10,6 +10,16 @@
   place: Vienna, Austria
   sub: GEOP
 
+- name: World Geothermal Congress
+  year: 2020
+  id: wgc2020
+  link: https://www.wgc2020.com
+  deadline: "2020-01-31 20:00:00"
+  timezone: Etc/GMT+1
+  date: 27 April - 1 May 2020
+  place: Reykjavik, Iceland
+  sub: GSCI
+
 - name: AGU Fall Meeting
   year: 2019
   id: agufallmtg19
